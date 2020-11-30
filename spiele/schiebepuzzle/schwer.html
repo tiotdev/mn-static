@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>M&auml;use-Schiebepuzzle</title>
+<script type="4e00885e49f7424f80f4f3fa-text/javascript" src="/spiele/schiebepuzzle/jquery.js"></script>
+<script type="4e00885e49f7424f80f4f3fa-text/javascript" src="/spiele/schiebepuzzle/jquery.jqpuzzle.js"></script>
+<link rel="stylesheet" type="text/css" href="/spiele/schiebepuzzle/jquery.jqpuzzle.css" />
+<style type="text/css">
+
+body {
+background-color:#F6ECD6;}
+
+</style>
+</head>
+<body>
+<img id="gasometer" src="/spiele/schiebepuzzle/street.jpg" alt="Gasometer, Leipzig/Germany" /> <script type="4e00885e49f7424f80f4f3fa-text/javascript">
+    $(document).ready(function() {
+        $('#gasometer').jqPuzzle({
+            cols: 5,
+            hole: 16,
+            numbers: false,
+            language: 'de',
+            success: {
+                callback: function(results) {
+                    alert('Gelöst in ' + results.moves + ' Zügen und ' +
+                        results.seconds + ' Sekunden.');
+                }
+            },
+            animation: {
+                shuffleRounds: 1,
+                slidingSpeed: 100,
+                shuffleSpeed: 200
+            },
+            style: {
+                gridSize: 0,
+                overlap: false,
+                backgroundOpacity: 0
+            }
+        }, {
+            secondsLabel: 'Sek.'
+        });
+    });
+</script> <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="4e00885e49f7424f80f4f3fa-|49" defer=""></script>
