@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>5. Freilauf - 28. Februar 2010</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>Der Freilauf</title>
+            <link>slides/Der Freilauf.jpg#</link>
+            <pubDate>Mon, 06 Jun 2011 17:00:45 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Der Freilauf.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Der Freilauf.jpg" width="799" height="600"/>
+            <guid isPermaLink="false">slides/Der Freilauf.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Spot</title>
+            <link>slides/Mr. Spot.jpg#</link>
+            <pubDate>Mon, 06 Jun 2011 17:00:45 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot.jpg" width="640" height="480"/>
+            <guid isPermaLink="false">slides/Mr. Spot.jpg</guid>
+        </item>
+        <item>
+            <title>Eine Maus macht Maennchen</title>
+            <link>slides/Eine Maus macht Maennchen.jpg#</link>
+            <pubDate>Mon, 06 Jun 2011 17:00:45 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Eine Maus macht Maennchen.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Eine Maus macht Maennchen.jpg" width="640" height="480"/>
+            <guid isPermaLink="false">slides/Eine Maus macht Maennchen.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Red knabbert</title>
+            <link>slides/Mr. Red knabbert.jpg#</link>
+            <pubDate>Mon, 06 Jun 2011 17:00:45 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Red knabbert.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Red knabbert.jpg" width="330" height="247"/>
+            <guid isPermaLink="false">slides/Mr. Red knabbert.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Spot macht Maennchen</title>
+            <link>slides/Mr. Spot macht Maennchen.jpg#</link>
+            <pubDate>Mon, 06 Jun 2011 17:00:45 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot macht Maennchen.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot macht Maennchen.jpg" width="424" height="318"/>
+            <guid isPermaLink="false">slides/Mr. Spot macht Maennchen.jpg</guid>
+        </item>
+        <item>
+            <title>Auch Maeuse spielen Ball</title>
+            <link>slides/Auch Maeuse spielen Ball.jpg#</link>
+            <pubDate>Mon, 06 Jun 2011 17:00:45 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Auch Maeuse spielen Ball.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Auch Maeuse spielen Ball.jpg" width="640" height="480"/>
+            <guid isPermaLink="false">slides/Auch Maeuse spielen Ball.jpg</guid>
+        </item>
+    </channel>
+</rss>

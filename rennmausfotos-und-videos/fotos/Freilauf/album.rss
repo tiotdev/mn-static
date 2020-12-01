@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Freilauf</title>
+   	<link>.</link>
+        <generator>Jalbum 8.3</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>Mr. Spot</title>
+            <link>slides/Mr. Spot.html#</link>
+            <pubDate>Wed, 06 Jan 2010 18:25:27 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot.JPG" width="160" height="160"/>
+            <media:content url="slides/Mr. Spot.JPG" width="640" height="479"/>
+            
+            
+            <guid isPermaLink="false">slides/Mr. Spot.JPG</guid>
+        </item>
+        
+        <item>
+            <title>Mr. Spot 2</title>
+            <link>slides/Mr. Spot 2.html#</link>
+            <pubDate>Wed, 06 Jan 2010 18:25:27 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot 2.JPG" width="160" height="160"/>
+            <media:content url="slides/Mr. Spot 2.JPG" width="640" height="479"/>
+            
+            
+            <guid isPermaLink="false">slides/Mr. Spot 2.JPG</guid>
+        </item>
+        
+        <item>
+            <title>Mr. Speedy</title>
+            <link>slides/Mr. Speedy.html#</link>
+            <pubDate>Wed, 06 Jan 2010 18:25:27 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Speedy.jpg" width="160" height="160"/>
+            <media:content url="slides/Mr. Speedy.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/Mr. Speedy.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Mr. Blue</title>
+            <link>slides/Mr. Blue.html#</link>
+            <pubDate>Wed, 06 Jan 2010 18:25:27 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Blue.jpg" width="160" height="160"/>
+            <media:content url="slides/Mr. Blue.jpg" width="640" height="477"/>
+            
+            
+            <guid isPermaLink="false">slides/Mr. Blue.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Mr. Red</title>
+            <link>slides/Mr. Red.html#</link>
+            <pubDate>Wed, 06 Jan 2010 18:25:27 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Red.jpg" width="160" height="160"/>
+            <media:content url="slides/Mr. Red.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/Mr. Red.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

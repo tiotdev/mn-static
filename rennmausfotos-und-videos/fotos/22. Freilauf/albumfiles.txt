@@ -1,0 +1,40 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+Mr. Spot knabbert am Holztunnel.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot knabbert am Holztunnel.JPG
+Mr. Speedy kommt aus dem Holztunnel.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Speedy kommt aus dem Holztunnel.JPG
+Mr. Speedy vor dem Holztunnel.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Speedy vor dem Holztunnel.JPG
+Maus im Holztunnel.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Maus im Holztunnel.JPG
+Mr. Spot knabbert.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot knabbert.JPG
+Zwei Rennmaeuse am Maeuselabyrinth.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Zwei Rennmaeuse am Maeuselabyrinth.JPG
+Mr. Spot im Maeuselabyrinth.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot im Maeuselabyrinth.JPG
+Mr. Spot und Mr. Red im Maeuselabyrinth.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot und Mr. Red im Maeuselabyrinth.JPG
+Alle Maeuse im und am Maeuselabyrinth.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Alle Maeuse im und am Maeuselabyrinth.JPG
+Mr. Spot im Maeuselabyrinth 2.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot im Maeuselabyrinth 2.JPG
+Mr. Spot am Maeuselabyrinth.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot am Maeuselabyrinth.JPG
+Mr. Red.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Red.JPG
+Mr. Blue knabbert.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Blue knabbert.JPG
+Mr. Spot in der Wurzelhoehle.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot in der Wurzelhoehle.JPG
+Zwei Rennmaeuse im Maeuselabyrinth.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Zwei Rennmaeuse im Maeuselabyrinth.JPG
+Mr. Red im Maeuselabyrinth.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Red im Maeuselabyrinth.JPG
+Mr. Spot im Maeuselabyrinth 3.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot im Maeuselabyrinth 3.JPG
+Mr. Spot 2.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot 2.JPG
+Mr. Blue in der Wurzelhoehle.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Blue in der Wurzelhoehle.JPG
+Mr. Red 2.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Red 2.JPG
+Mr. Spot ist 'im Eimer'.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot ist 'im Eimer'.JPG
+Mr. Speedy auf der Wurzelhoehle 2.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Speedy auf der Wurzelhoehle 2.JPG
+Mr. Spot.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot.JPG
+Mr. Speedy auf der Wurzelhoehle.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Speedy auf der Wurzelhoehle.JPG
+Mr. Spot kommt aus der Maeuseburg.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot kommt aus der Maeuseburg.JPG
+Mr. Spot auf der Wurzelhoehle.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot auf der Wurzelhoehle.JPG
+Mr. Spot kommt aus der Maeuseburg 2.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot kommt aus der Maeuseburg 2.JPG
+Mr. Red 3.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Red 3.JPG
+Mr. Spot am Maeuselabyrinth (2).JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot am Maeuselabyrinth (2).JPG
+Mr. Spot frisst aus der Hand.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Spot frisst aus der Hand.JPG
+Mr. Red knabbert 2.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Red knabbert 2.JPG
+Mr. Blue auf der Wurzelhoehle 2.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\22. Freilauf - 13.11.10\Mr. Blue auf der Wurzelhoehle 2.JPG

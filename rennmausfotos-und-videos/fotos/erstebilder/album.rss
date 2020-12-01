@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Erste Bilder der neuen Rennmäuse</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>Maus auf der Wurzelhoehle 2</title>
+            <link>slides/Maus auf der Wurzelhoehle 2.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 18:59:42 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Maus auf der Wurzelhoehle 2.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Maus auf der Wurzelhoehle 2.JPG" width="799" height="600"/>
+            <guid isPermaLink="false">slides/Maus auf der Wurzelhoehle 2.JPG</guid>
+        </item>
+        <item>
+            <title>Maus auf der Wurzelhoehle</title>
+            <link>slides/Maus auf der Wurzelhoehle.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 18:59:42 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Maus auf der Wurzelhoehle.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Maus auf der Wurzelhoehle.JPG" width="798" height="600"/>
+            <guid isPermaLink="false">slides/Maus auf der Wurzelhoehle.JPG</guid>
+        </item>
+        <item>
+            <title>Maus guckt aus einem Fenster der Maeuseburg</title>
+            <link>slides/Maus guckt aus einem Fenster der Maeuseburg.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 18:59:42 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Maus guckt aus einem Fenster der Maeuseburg.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Maus guckt aus einem Fenster der Maeuseburg.JPG" width="799" height="600"/>
+            <guid isPermaLink="false">slides/Maus guckt aus einem Fenster der Maeuseburg.JPG</guid>
+        </item>
+        <item>
+            <title>Maus im Kaefig</title>
+            <link>slides/Maus im Kaefig.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 18:59:42 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Maus im Kaefig.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Maus im Kaefig.JPG" width="794" height="600"/>
+            <guid isPermaLink="false">slides/Maus im Kaefig.JPG</guid>
+        </item>
+        <item>
+            <title>Maus in der Kokosnussschale</title>
+            <link>slides/Maus in der Kokosnussschale.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 18:59:42 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Maus in der Kokosnussschale.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Maus in der Kokosnussschale.JPG" width="677" height="512"/>
+            <guid isPermaLink="false">slides/Maus in der Kokosnussschale.JPG</guid>
+        </item>
+    </channel>
+</rss>

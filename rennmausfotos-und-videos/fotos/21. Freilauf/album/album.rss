@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>21. Freilauf - 17. Oktober 2010</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>Alle vier Rennmaeuse</title>
+            <link>slides/Alle vier Rennmaeuse.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:35:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Alle vier Rennmaeuse.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Alle vier Rennmaeuse.JPG" width="801" height="600"/>
+            <jalbum:exif originalDate="17.10.10 03:02" cameraMake="FUJIFILM" cameraModel="FinePix AX200"/>
+            <guid isPermaLink="false">slides/Alle vier Rennmaeuse.JPG</guid>
+        </item>
+        <item>
+            <title>Mr. Red</title>
+            <link>slides/Mr. Red.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:35:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Red.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Red.JPG" width="797" height="600"/>
+            <jalbum:exif originalDate="17.10.10 03:07" cameraMake="FUJIFILM" cameraModel="FinePix AX200"/>
+            <guid isPermaLink="false">slides/Mr. Red.JPG</guid>
+        </item>
+        <item>
+            <title>Mr. Spot</title>
+            <link>slides/Mr. Spot.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:35:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot.JPG" width="447" height="600"/>
+            <jalbum:exif originalDate="17.10.10 03:02" cameraMake="FUJIFILM" cameraModel="FinePix AX200"/>
+            <guid isPermaLink="false">slides/Mr. Spot.JPG</guid>
+        </item>
+        <item>
+            <title>Mr. Spot 2</title>
+            <link>slides/Mr. Spot 2.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:35:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot 2.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot 2.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="17.10.10 03:02" cameraMake="FUJIFILM" cameraModel="FinePix AX200"/>
+            <guid isPermaLink="false">slides/Mr. Spot 2.JPG</guid>
+        </item>
+        <item>
+            <title>Mr. Spot 3</title>
+            <link>slides/Mr. Spot 3.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:35:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot 3.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot 3.JPG" width="798" height="600"/>
+            <jalbum:exif originalDate="17.10.10 03:08" cameraMake="FUJIFILM" cameraModel="FinePix AX200"/>
+            <guid isPermaLink="false">slides/Mr. Spot 3.JPG</guid>
+        </item>
+        <item>
+            <title>Mr. Spot 4</title>
+            <link>slides/Mr. Spot 4.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:35:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot 4.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot 4.JPG" width="448" height="600"/>
+            <jalbum:exif originalDate="17.10.10 03:05" cameraMake="FUJIFILM" cameraModel="FinePix AX200"/>
+            <guid isPermaLink="false">slides/Mr. Spot 4.JPG</guid>
+        </item>
+        <item>
+            <title>Mr. Spot 5</title>
+            <link>slides/Mr. Spot 5.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:35:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot 5.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot 5.JPG" width="797" height="600"/>
+            <jalbum:exif originalDate="17.10.10 03:03" cameraMake="FUJIFILM" cameraModel="FinePix AX200"/>
+            <guid isPermaLink="false">slides/Mr. Spot 5.JPG</guid>
+        </item>
+    </channel>
+</rss>

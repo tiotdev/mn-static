@@ -1,0 +1,26 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+Mr. Spot am Maeusekuchen.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Spot am Maeusekuchen.JPG
+Mr. Spot am Maeusekuchen 2.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Spot am Maeusekuchen 2.JPG
+Mr Blue und Mr. Spot am Maeusekuchen.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr Blue und Mr. Spot am Maeusekuchen.JPG
+Mr. Blue und Mr. red am Maeusekuchen.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Blue und Mr. red am Maeusekuchen.JPG
+Mr. Red kommt aus dem Tunnel.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Red kommt aus dem Tunnel.JPG
+Mr. Blue und Mr. Spot im Labyrinth.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Blue und Mr. Spot im Labyrinth.JPG
+Mr. Blue im Labyrinth.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Blue im Labyrinth.JPG
+Mr. Spot im Labyrinth.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Spot im Labyrinth.JPG
+Mr Spot ist 'im Eimer'.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr Spot ist 'im Eimer'.JPG
+Mr. Spot auf der Wurzelhoehle.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Spot auf der Wurzelhoehle.JPG
+Mr. Spot vor dem Boot.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Spot vor dem Boot.JPG
+Mr. Speedy und Mr. Spot.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Speedy und Mr. Spot.JPG
+Mr. Speedy und Mr. Spot 2.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Speedy und Mr. Spot 2.JPG
+Mr. Speedy und Mr. Spot 3.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Speedy und Mr. Spot 3.JPG
+Mr. Speedy und Mr. Spot raufen sich.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Speedy und Mr. Spot raufen sich.JPG
+Mr. Red.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr. Red.JPG
+Mr Spot.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr Spot.JPG
+Mr Spot 2.JPG	C:\Dokumente und Einstellungen\Besitzer\Eigene Dateien\My Albums\19. Freilauf - 12. September\Mr Spot 2.JPG

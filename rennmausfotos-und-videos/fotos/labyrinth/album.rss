@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Rennmaus-Labyrinth</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>Labyrinth1</title>
+            <link>slides/Labyrinth1.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 19:17:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Labyrinth1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Labyrinth1.jpg" width="594" height="600"/>
+            <guid isPermaLink="false">slides/Labyrinth1.jpg</guid>
+        </item>
+        <item>
+            <title>Labyrinth2</title>
+            <link>slides/Labyrinth2.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 19:17:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Labyrinth2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Labyrinth2.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Labyrinth2.jpg</guid>
+        </item>
+        <item>
+            <title>Labyrinth3</title>
+            <link>slides/Labyrinth3.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 19:17:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Labyrinth3.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Labyrinth3.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Labyrinth3.jpg</guid>
+        </item>
+        <item>
+            <title>Labyrinth4</title>
+            <link>slides/Labyrinth4.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 19:17:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Labyrinth4.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Labyrinth4.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Labyrinth4.jpg</guid>
+        </item>
+        <item>
+            <title>Labyrinth5</title>
+            <link>slides/Labyrinth5.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 19:17:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Labyrinth5.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Labyrinth5.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Labyrinth5.jpg</guid>
+        </item>
+        <item>
+            <title>Labyrinth6</title>
+            <link>slides/Labyrinth6.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 19:17:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Labyrinth6.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Labyrinth6.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Labyrinth6.jpg</guid>
+        </item>
+    </channel>
+</rss>

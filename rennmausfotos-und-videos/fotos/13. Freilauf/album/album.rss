@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>13. Freilauf (Fußball) - 13. Juni 2010</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>Mr. Blue mit Futter und Fussball</title>
+            <link>slides/Mr. Blue mit Futter und Fussball.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:22:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Blue mit Futter und Fussball.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Blue mit Futter und Fussball.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Blue mit Futter und Fussball.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Red mit Fussball</title>
+            <link>slides/Mr. Red mit Fussball.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:22:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Red mit Fussball.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Red mit Fussball.jpg" width="800" height="599"/>
+            <guid isPermaLink="false">slides/Mr. Red mit Fussball.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Speedy mit Fussball 2</title>
+            <link>slides/Mr. Speedy mit Fussball 2.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:22:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Speedy mit Fussball 2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Speedy mit Fussball 2.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Speedy mit Fussball 2.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Speedy mit Fussball 3</title>
+            <link>slides/Mr. Speedy mit Fussball 3.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:22:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Speedy mit Fussball 3.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Speedy mit Fussball 3.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Speedy mit Fussball 3.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Speedy mit Fussball</title>
+            <link>slides/Mr. Speedy mit Fussball.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:22:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Speedy mit Fussball.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Speedy mit Fussball.jpg" width="800" height="598"/>
+            <guid isPermaLink="false">slides/Mr. Speedy mit Fussball.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Spot mit Fussball 2</title>
+            <link>slides/Mr. Spot mit Fussball 2.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:22:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot mit Fussball 2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot mit Fussball 2.jpg" width="800" height="599"/>
+            <guid isPermaLink="false">slides/Mr. Spot mit Fussball 2.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Spot mit Fussball</title>
+            <link>slides/Mr. Spot mit Fussball.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:22:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot mit Fussball.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot mit Fussball.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Spot mit Fussball.jpg</guid>
+        </item>
+    </channel>
+</rss>

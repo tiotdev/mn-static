@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_25" class="java.beans.XMLDecoder"> 
+ <object class="java.util.HashMap"> 
+  <void method="put"> 
+   <string>imageSettingsHash</string> 
+   <string>a2880225c7b6f48b2106d0877590d732</string> 
+  </void> 
+  <void method="put"> 
+   <string>title</string> 
+   <string>13. Freilauf (Fußball) - 13. Juni 2010</string> 
+  </void> 
+  <void method="put"> 
+   <string>imageLinking</string> 
+   <string>LinkScaled</string> 
+  </void> 
+ </object> 
+</java> 

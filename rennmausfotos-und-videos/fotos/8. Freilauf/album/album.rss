@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>8. Freilauf - 21. März 2010</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>Der Freilauf</title>
+            <link>slides/Der Freilauf.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:11:32 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Der Freilauf.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Der Freilauf.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Der Freilauf.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Blue knabbert</title>
+            <link>slides/Mr. Blue knabbert.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:11:32 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Blue knabbert.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Blue knabbert.jpg" width="702" height="531"/>
+            <guid isPermaLink="false">slides/Mr. Blue knabbert.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Blue vor der Wurzelhoehle</title>
+            <link>slides/Mr. Blue vor der Wurzelhoehle.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:11:32 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Blue vor der Wurzelhoehle.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Blue vor der Wurzelhoehle.jpg" width="800" height="598"/>
+            <guid isPermaLink="false">slides/Mr. Blue vor der Wurzelhoehle.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Red</title>
+            <link>slides/Mr. Red.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:11:32 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Red.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Red.jpg" width="609" height="457"/>
+            <guid isPermaLink="false">slides/Mr. Red.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Spot</title>
+            <link>slides/Mr. Spot.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:11:32 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot.jpg" width="741" height="562"/>
+            <guid isPermaLink="false">slides/Mr. Spot.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Spot kommt aus dem Tunnel</title>
+            <link>slides/Mr. Spot kommt aus dem Tunnel.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:11:32 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot kommt aus dem Tunnel.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot kommt aus dem Tunnel.jpg" width="797" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Spot kommt aus dem Tunnel.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_25" class="java.beans.XMLDecoder"> 
+ <object class="java.util.HashMap"> 
+  <void method="put"> 
+   <string>imageSettingsHash</string> 
+   <string>f99eef83f90035c9619ea0a99251b171</string> 
+  </void> 
+  <void method="put"> 
+   <string>title</string> 
+   <string>5. Freilauf - 28. Februar 2010</string> 
+  </void> 
+  <void method="put"> 
+   <string>lastSplashPath</string> 
+   <string>Der Freilauf.jpg</string> 
+  </void> 
+  <void method="put"> 
+   <string>imageLinking</string> 
+   <string>LinkScaled</string> 
+  </void> 
+  <void method="put"> 
+   <string>lastSplashSize</string> 
+   <string>900x400</string> 
+  </void> 
+ </object> 
+</java> 

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>13. Freilauf (Fußball) - 13. Juni 2010</title>
+   	<link>.</link>
+        <generator>Jalbum 8.3</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>Mr. Blue mit Futter und Fussball</title>
+            <link>slides/Mr. Blue mit Futter und Fussball.html#</link>
+            <pubDate>Wed, 18 Aug 2010 17:27:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Blue mit Futter und Fussball.jpg" width="124" height="93"/>
+            <media:content url="slides/Mr. Blue mit Futter und Fussball.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="13.06.10 16:03" cameraMake="Concord Camera GmbH" cameraModel="JD 5.0z3 EasyShot"/>
+            <guid isPermaLink="false">slides/Mr. Blue mit Futter und Fussball.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Mr. Red mit Fussball</title>
+            <link>slides/Mr. Red mit Fussball.html#</link>
+            <pubDate>Wed, 18 Aug 2010 17:27:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Red mit Fussball.jpg" width="124" height="92"/>
+            <media:content url="slides/Mr. Red mit Fussball.jpg" width="800" height="599"/>
+            
+            <jalbum:exif originalDate="13.06.10 16:23" cameraMake="Concord Camera GmbH" cameraModel="JD 5.0z3 EasyShot"/>
+            <guid isPermaLink="false">slides/Mr. Red mit Fussball.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Mr. Speedy mit Fussball</title>
+            <link>slides/Mr. Speedy mit Fussball.html#</link>
+            <pubDate>Wed, 18 Aug 2010 17:27:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Speedy mit Fussball.jpg" width="124" height="92"/>
+            <media:content url="slides/Mr. Speedy mit Fussball.jpg" width="800" height="598"/>
+            
+            <jalbum:exif originalDate="13.06.10 16:04" cameraMake="Concord Camera GmbH" cameraModel="JD 5.0z3 EasyShot"/>
+            <guid isPermaLink="false">slides/Mr. Speedy mit Fussball.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Mr. Speedy mit Fussball 2</title>
+            <link>slides/Mr. Speedy mit Fussball 2.html#</link>
+            <pubDate>Wed, 18 Aug 2010 17:27:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Speedy mit Fussball 2.jpg" width="124" height="93"/>
+            <media:content url="slides/Mr. Speedy mit Fussball 2.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="13.06.10 17:24" cameraMake="Concord Camera GmbH" cameraModel="JD 5.0z3 EasyShot"/>
+            <guid isPermaLink="false">slides/Mr. Speedy mit Fussball 2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Mr. Speedy mit Fussball 3</title>
+            <link>slides/Mr. Speedy mit Fussball 3.html#</link>
+            <pubDate>Wed, 18 Aug 2010 17:27:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Speedy mit Fussball 3.jpg" width="124" height="93"/>
+            <media:content url="slides/Mr. Speedy mit Fussball 3.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="13.06.10 17:24" cameraMake="Concord Camera GmbH" cameraModel="JD 5.0z3 EasyShot"/>
+            <guid isPermaLink="false">slides/Mr. Speedy mit Fussball 3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Mr. Spot mit Fussball</title>
+            <link>slides/Mr. Spot mit Fussball.html#</link>
+            <pubDate>Wed, 18 Aug 2010 17:27:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot mit Fussball.jpg" width="124" height="93"/>
+            <media:content url="slides/Mr. Spot mit Fussball.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="13.06.10 16:20" cameraMake="Concord Camera GmbH" cameraModel="JD 5.0z3 EasyShot"/>
+            <guid isPermaLink="false">slides/Mr. Spot mit Fussball.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Mr. Spot mit Fussball 2</title>
+            <link>slides/Mr. Spot mit Fussball 2.html#</link>
+            <pubDate>Wed, 18 Aug 2010 17:27:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot mit Fussball 2.jpg" width="124" height="92"/>
+            <media:content url="slides/Mr. Spot mit Fussball 2.jpg" width="800" height="599"/>
+            
+            <jalbum:exif originalDate="13.06.10 16:31" cameraMake="Concord Camera GmbH" cameraModel="JD 5.0z3 EasyShot"/>
+            <guid isPermaLink="false">slides/Mr. Spot mit Fussball 2.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

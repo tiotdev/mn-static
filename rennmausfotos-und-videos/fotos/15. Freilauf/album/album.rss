@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>15. Freilauf</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>Mr. Spot</title>
+            <link>slides/Mr. Spot.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:25:07 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot.JPG" width="797" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Spot.JPG</guid>
+        </item>
+        <item>
+            <title>Mr. Red und Mr. Spot</title>
+            <link>slides/Mr. Red und Mr. Spot.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:25:07 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Red und Mr. Spot.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Red und Mr. Spot.JPG" width="719" height="543"/>
+            <guid isPermaLink="false">slides/Mr. Red und Mr. Spot.JPG</guid>
+        </item>
+        <item>
+            <title>Mr. Red</title>
+            <link>slides/Mr. Red.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:25:07 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Red.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Red.JPG" width="798" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Red.JPG</guid>
+        </item>
+        <item>
+            <title>Mr. Spot auf der Maeuseburg</title>
+            <link>slides/Mr. Spot auf der Maeuseburg.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:25:07 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot auf der Maeuseburg.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot auf der Maeuseburg.JPG" width="798" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Spot auf der Maeuseburg.JPG</guid>
+        </item>
+        <item>
+            <title>Mr. Spot auf der Wurzelhoehle</title>
+            <link>slides/Mr. Spot auf der Wurzelhoehle.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:25:07 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot auf der Wurzelhoehle.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot auf der Wurzelhoehle.JPG" width="797" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Spot auf der Wurzelhoehle.JPG</guid>
+        </item>
+    </channel>
+</rss>

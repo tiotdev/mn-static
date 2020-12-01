@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>16. Freilauf - 25. Juli 2010</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>Mr. Spot</title>
+            <link>slides/Mr. Spot.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:26:38 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot.JPG" width="798" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Spot.JPG</guid>
+        </item>
+        <item>
+            <title>Mr. Spot im Tunnel</title>
+            <link>slides/Mr. Spot im Tunnel.JPG#</link>
+            <pubDate>Thu, 09 Jun 2011 16:26:38 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot im Tunnel.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot im Tunnel.JPG" width="800" height="599"/>
+            <guid isPermaLink="false">slides/Mr. Spot im Tunnel.JPG</guid>
+        </item>
+    </channel>
+</rss>

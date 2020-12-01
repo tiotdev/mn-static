@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>11. Freilauf - 2. Mai 2010</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>Der Freilauf</title>
+            <link>slides/Der Freilauf.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:16:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Der Freilauf.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Der Freilauf.jpg" width="800" height="599"/>
+            <guid isPermaLink="false">slides/Der Freilauf.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Blue guckt aus der Wurzelhoehle</title>
+            <link>slides/Mr. Blue guckt aus der Wurzelhoehle.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:16:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Blue guckt aus der Wurzelhoehle.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Blue guckt aus der Wurzelhoehle.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Blue guckt aus der Wurzelhoehle.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Blue</title>
+            <link>slides/Mr. Blue.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:16:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Blue.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Blue.jpg" width="451" height="600"/>
+            <guid isPermaLink="false">slides/Mr. Blue.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Speedy</title>
+            <link>slides/Mr. Speedy.html#</link>
+            <pubDate>Thu, 09 Jun 2011 16:16:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Speedy.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Speedy.jpg" width="796" height="600"/>
+            <jalbum:original url="Mr. Speedy.jpg" width="800" height="603" fileSize="191400"/>
+            <guid isPermaLink="false">slides/Mr. Speedy.jpg</guid>
+        </item>
+    </channel>
+</rss>

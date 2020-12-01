@@ -1,0 +1,28 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+Mr. Red.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Red.JPG
+Mr. Spot.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot.JPG
+Mr. Spot 2.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot 2.JPG
+Mr. Spot 3.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot 3.JPG
+Mr. Spot in der Maeuseburg.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot in der Maeuseburg.JPG
+Mr. Spot in der Maeuseburg 2.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot in der Maeuseburg 2.JPG
+Mr. Spot 4.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot 4.JPG
+Mr. Blue, Mr. Red und Mr. Spot.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Blue, Mr. Red und Mr. Spot.JPG
+Alle Maeuse sind schon da, alle Maeuse alle....JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Alle Maeuse sind schon da, alle Maeuse alle....JPG
+Mr Speedy auf der Wurzelhoehle.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr Speedy auf der Wurzelhoehle.JPG
+Mr. Speedy  in der Mäuseburg.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Speedy  in der Mäuseburg.JPG
+Mr. Spot in der Maeuseburg 3.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot in der Maeuseburg 3.JPG
+Mr. Spot  in der Maeuseburg 4.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot  in der Maeuseburg 4.JPG
+Maeuseburg.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Maeuseburg.JPG
+Mr. Spot  auf der Maeuseburg.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot  auf der Maeuseburg.JPG
+Mr. Spot  auf der Maeuseburg 2.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot  auf der Maeuseburg 2.JPG
+Mr. Spot  auf der Maeuseburg 3.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot  auf der Maeuseburg 3.JPG
+Mr. Spot  auf der Maeuseburg 4.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot  auf der Maeuseburg 4.JPG
+An was Mr. Red wohl gerade denkt....JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\An was Mr. Red wohl gerade denkt....JPG
+Mr. Spot 5.JPG	C:\Users\Besitzer\Pictures\Meine Mäusebilder Mäusevideos\Bilder der neuen Mäuse\24. Freilauf - 12.12.10\Mr. Spot 5.JPG

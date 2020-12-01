@@ -1,0 +1,42 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+27. Freilauf - Bild 34.jpg
+27. Freilauf - Bild 1.jpg
+27. Freilauf - Bild 2.jpg
+27. Freilauf - Bild 3.jpg
+27. Freilauf - Bild 4.jpg
+27. Freilauf - Bild 5.jpg
+27. Freilauf - Bild 6.jpg
+27. Freilauf - Bild 7.jpg
+27. Freilauf - Bild 8.jpg
+27. Freilauf - Bild 9.jpg
+27. Freilauf - Bild 10.jpg
+27. Freilauf - Bild 11.jpg
+27. Freilauf - Bild 12.jpg
+27. Freilauf - Bild 13.jpg
+27. Freilauf - Bild 14.jpg
+27. Freilauf - Bild 15.jpg
+27. Freilauf - Bild 16.jpg
+27. Freilauf - Bild 17.jpg
+27. Freilauf - Bild 18.jpg
+27. Freilauf - Bild 19.jpg
+27. Freilauf - Bild 20.jpg
+27. Freilauf - Bild 21.jpg
+27. Freilauf - Bild 22.jpg
+27. Freilauf - Bild 23.jpg
+27. Freilauf - Bild 24.jpg
+27. Freilauf - Bild 25.jpg
+27. Freilauf - Bild 26.jpg
+27. Freilauf - Bild 27.jpg
+27. Freilauf - Bild 28.jpg
+27. Freilauf - Bild 29.jpg
+27. Freilauf - Bild 30.jpg
+27. Freilauf - Bild 31.jpg
+27. Freilauf - Bild 32.jpg
+27. Freilauf - Bild 33.jpg

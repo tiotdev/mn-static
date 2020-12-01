@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>7. Freilauf - 14. März 2010</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>Maus auf der Wurzelhoehle</title>
+            <link>slides/Maus auf der Wurzelhoehle.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:08:50 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Maus auf der Wurzelhoehle.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Maus auf der Wurzelhoehle.jpg" width="450" height="600"/>
+            <guid isPermaLink="false">slides/Maus auf der Wurzelhoehle.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Spot</title>
+            <link>slides/Mr. Spot.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:08:50 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Spot.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Spot.jpg" width="800" height="599"/>
+            <guid isPermaLink="false">slides/Mr. Spot.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Red zwischen den Eierkartons</title>
+            <link>slides/Mr. Red zwischen den Eierkartons.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:08:50 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Red zwischen den Eierkartons.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Red zwischen den Eierkartons.jpg" width="800" height="599"/>
+            <guid isPermaLink="false">slides/Mr. Red zwischen den Eierkartons.jpg</guid>
+        </item>
+        <item>
+            <title>Mr. Speedy</title>
+            <link>slides/Mr. Speedy.jpg#</link>
+            <pubDate>Thu, 09 Jun 2011 16:08:50 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mr. Speedy.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Mr. Speedy.jpg" width="800" height="598"/>
+            <guid isPermaLink="false">slides/Mr. Speedy.jpg</guid>
+        </item>
+    </channel>
+</rss>
