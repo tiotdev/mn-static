@@ -448,6 +448,8 @@ Approximately 50+ HTML files:
 <p>Deshalb habe ich irgendwann eine andere Lösung gesucht – und schließlich selbst gebaut: <strong>Pawtograph, eine Haustierportrait App mit KI, die deine Fotos bearbeitet wie ein professioneller Fotograf.</strong> Du gibst einfach Anweisungen wie "Füge eine Weihnachtsmütze hinzu" oder "Mach einen schönen Hintergrund" und die KI macht es. Keine komplizierten Tools, keine Photoshop-Kenntnisse – einfach sagen, was du möchtest.</p>
 
 <p>Die App funktioniert für Rennmäuse, Hamster, Meerschweinchen, aber auch für Hunde und Katzen. In diesem Artikel zeige ich dir ehrlich, wie die App funktioniert, was sie kann, wo ihre Grenzen liegen – und warum ich glaube, dass KI-basierte Bearbeitung manchmal besser ist als das perfekte Foto zu jagen.</p>
+
+<p><strong><a href="https://www.pawtograph.app/?utm_source=maeusenews&utm_medium=referral&utm_campaign=maeusenews_article_intro" target="_blank" rel="noopener">→ Jetzt kostenlos ausprobieren (1 Bearbeitung gratis)</a></strong></p>
 ```
 
 ---
@@ -475,6 +477,8 @@ Approximately 50+ HTML files:
 <p>Klar, mit einer teuren Kamera, einem Makro-Objektiv und einem Foto-Studio könntest du bessere Ergebnisse erzielen. Aber mal ehrlich: Wer baut für ein paar Rennmausfotos ein ganzes Studio auf? Das ist völlig unverhältnismäßig.</p>
 
 <p><strong>Mein Fazit nach Jahren frustrierender Fotoversuche:</strong> Ich brauche keine perfekten Originalfotos. Ich brauche eine Möglichkeit, aus „okay-ish" Handyfotos nachträglich schöne Bilder zu machen.</p>
+
+<p>Mehr Tipps zur Rennmaus-Fotografie findest du in meinem <a href="/rennmaus-ratgeber/pflege-tipps-freilauf/">Ratgeber zum Freilauf</a>.</p>
 ```
 
 ---
@@ -484,7 +488,7 @@ Approximately 50+ HTML files:
 ```html
 <h2>Wie ich auf die Idee für Pawtograph kam</h2>
 
-<p>Ich hatte über die Jahre Hunderte von Rennmausfotos gemacht. Als Hobbyfotograf habe ich mir richtig Mühe gegeben: Ich habe kleine Requisiten gebastelt – winzige Weihnachtsmützen aus Filz, einen Mini-Fußball – und versucht, damit kreative Fotos zu machen. Klingt süß, war aber in der Praxis extrem aufwändig.</p>
+<p>Ich hatte über die Jahre Hunderte von Rennmausfotos gemacht. Als Hobbyfotograf habe ich mir richtig Mühe gegeben: Ich habe kleine Requisiten gebastelt – winzige Weihnachtsmützen aus Filz, einen Mini-Fußball – und versucht, damit kreative Fotos zu machen. Klingt süß, war aber in der Praxis extrem aufwändig. Apropos selbstgebastelte Requisiten: In meinen <a href="/bauanleitungen/">Bauanleitungen</a> zeige ich, wie du Foto-Props selbst basteln kannst.</p>
 
 <p><strong>Ein typisches Fotoshooting lief so ab:</strong> Ich habe die Mütze vorsichtig auf die Rennmaus gesetzt, gehofft, dass sie sitzen bleibt, schnell das Handy gezückt – und in 90% der Fälle war die Mütze schon wieder runter oder die Maus ist weggelaufen. Dutzende Versuche, bis endlich ein brauchbares Foto dabei war. Und andere Ideen (Kostüme, verschiedene Szenarien) konnte ich gar nicht erst ausprobieren, weil das viel zu stressig für die Tiere gewesen wäre.</p>
 
@@ -537,7 +541,7 @@ Approximately 50+ HTML files:
 
 <p>Die KI versteht, was du willst, und bearbeitet das Foto entsprechend – wie ein professioneller Fotograf, der auf deine Wünsche eingeht.</p>
 
-<h3>Schritt 3: Die KI macht ihre Magie</h3>
+<h3>Schritt 3: Die KI zaubert</h3>
 <p>Im Hintergrund läuft ein speziell trainiertes KI-Modell, das auf Millionen von Haustierfotos trainiert wurde. Es versteht nicht nur <em>was</em> du willst, sondern auch <em>wie</em> es bei Tieren gut aussieht. Die KI kann:</p>
 
 <ul>
@@ -628,6 +632,12 @@ Approximately 50+ HTML files:
 </div>
 
 <p><strong>Wichtiger Hinweis:</strong> Die Qualität des Endergebnisses hängt stark vom Ausgangsfoto ab. Je besser das Originalfoto, desto besser das Ergebnis. Mehr dazu im nächsten Abschnitt.</p>
+
+<div style="background: #f5f5f5; padding: 20px; margin: 30px 0; border-left: 4px solid #8b7355;">
+<p><strong>Probier's mit deinen eigenen Fotos!</strong><br>
+Die erste Bearbeitung ist komplett kostenlos – du brauchst nicht mal ein Abo.</p>
+<p><a href="https://www.pawtograph.app/?utm_source=maeusenews&utm_medium=referral&utm_campaign=maeusenews_article_examples" target="_blank" rel="noopener" style="font-weight: bold;">→ Zur App (iOS & Android)</a></p>
+</div>
 ```
 
 ---
@@ -719,6 +729,8 @@ Approximately 50+ HTML files:
     <li><strong>Für Geschenke/Karten:</strong> Blumen- oder Natur-Hintergründe</li>
     <li><strong>Für Dokumentation:</strong> Weißer Hintergrund (clean, minimalistisch)</li>
 </ul>
+
+<p>Wenn du noch mehr Ideen für kreative Rennmaus-Fotos suchst, schau dir meine <a href="/rennmausfotos_videos">Fotos</a> an.</p>
 ```
 
 ---
