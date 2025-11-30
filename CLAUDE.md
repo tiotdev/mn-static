@@ -32,7 +32,6 @@ The photo galleries are organized into numbered albums:
 - **JavaScript Libraries**: jQuery 1.11.1 and 2.1.3
 - **Photo Gallery**: jAlbum (desktop application for creating web photo albums)
 - **Original CMS**: WordPress 5.4.2 (not present in this static export)
-- **Analytics**: Matomo/Piwik analytics (stats.tiot.de)
 - **Ads**: Google AdSense integration
 
 ## Language
@@ -76,7 +75,6 @@ The site relies on several external resources:
 - jQuery from Google's CDN
 - Font Awesome icons
 - Google Analytics and AdSense scripts
-- Matomo/Piwik analytics at stats.tiot.de
 
 ### Hosting Considerations
 This site is designed for static hosting but has some cleanup needed:
