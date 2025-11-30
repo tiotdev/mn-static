@@ -449,7 +449,7 @@ Approximately 50+ HTML files:
 
 <p>Die App funktioniert für Rennmäuse, Hamster, Meerschweinchen, aber auch für Hunde und Katzen. In diesem Artikel zeige ich dir ehrlich, wie die App funktioniert, was sie kann, wo ihre Grenzen liegen – und warum ich glaube, dass KI-basierte Bearbeitung manchmal besser ist als das perfekte Foto zu jagen.</p>
 
-<p><strong><a href="https://www.pawtograph.app/?utm_source=maeusenews&utm_medium=referral&utm_campaign=maeusenews_article_intro" target="_blank" rel="noopener">→ Jetzt kostenlos ausprobieren (1 Bearbeitung gratis)</a></strong></p>
+<p>→ <a href="#beispiele" style="color: #8b7355; text-decoration: underline;">Zu den Vorher-Nachher-Beispielen springen</a> (falls du ungeduldig bist)</p>
 ```
 
 ---
@@ -526,20 +526,24 @@ Approximately 50+ HTML files:
 <h3>Schritt 1: Foto hochladen</h3>
 <p>Du machst ein Foto mit deinem Handy (oder nutzt ein vorhandenes) und öffnest es in der App. Die App funktioniert auf iOS und Android.</p>
 
-<h3>Schritt 2: Der KI sagen, was du möchtest</h3>
-<p>Ich habe 250 Vorlagen entwickelt, die Haustiere in allen möglichen niedlichen Szenarien darstellen können - saisonal zu Weihnachten, Halloween oder Ostern, thematisch z.B. als Feuerwehrmann, Doktor oder Fußballer und auch volle Bearbeitungen wie als Geburtstagskarte oder als Filmposter.</p>
+<h3>Schritt 2: Vorlage auswählen oder eigene Idee beschreiben</h3>
 
-    <p>Dann gibt es den Kreativmodus. Hier wird's interessant: Du gibst der KI einfach Anweisungen in normalem Deutsch, zum Beispiel:</p>
+<p><strong>Die App hat über 250 fertige Vorlagen.</strong> Du lädst einfach dein Foto hoch, wählst einen Look, fertig:</p>
 
 <ul>
-    <li>"Füge eine Weihnachtsmütze hinzu"</li>
-    <li>"Mach einen professionellen Studio-Hintergrund"</li>
-    <li>"Lass die Rennmaus auf einer Wiese mit Blumen sitzen"</li>
-    <li>"Bessere die Beleuchtung und entferne den chaotischen Hintergrund"</li>
-    <li>oder sogar: "Lass meine Rennmaus auf einer kleinen Katze reiten, wie ein Mensch auf einem Pferd reiten würde"</li>
+    <li>🎄 <strong>Weihnachten:</strong> Weihnachtsmütze, Rentier-Geweih, Weihnachtspullover, Winterwunderland-Szene</li>
+    <li>🎃 <strong>Halloween:</strong> Hexenhut, Kürbis-Kostüm, Vampir-Umhang, Geister-Laken</li>
+    <li>⚽ <strong>Sport:</strong> Als Fußballer, Basketballspieler, Tennis-Champion</li>
+    <li>👨‍🚒 <strong>Berufe:</strong> Als Feuerwehrmann, Astronaut, Pilot, Arzt, Koch, Superheld</li>
+    <li>🎂 <strong>Feiern:</strong> Geburtstagskarte, Partyhut, Herz-Sonnenbrille, Oster-Haube</li>
+    <li>🎬 <strong>Filmplakate:</strong> Action-Film, Horror-Film, Liebesfilm, Western</li>
+    <li>🎨 <strong>Kunsteffekte:</strong> Als Renaissance-Gemälde, Aquarell, Comic-Figur, Magazin-Cover</li>
+    <li>...und über 200 weitere Styles!</li>
 </ul>
 
-<p>Die KI versteht, was du willst, und bearbeitet das Foto entsprechend – wie ein professioneller Fotograf, der auf deine Wünsche eingeht.</p>
+<p><strong>Einfach Foto hochladen → Vorlage antippen → Fertig!</strong> In 20 Sekunden ist dein Haustier Fußballer, Astronaut oder auf einem Filmplakat.</p>
+
+<p>Falls du eine ganz eigene Idee hast, gibt's den <strong>Kreativmodus</strong>: Du beschreibst der KI in normalem Deutsch, was du willst ("Lass meine Rennmaus auf einer Katze reiten"), und die KI erstellt es.</p>
 
 <h3>Schritt 3: Die KI zaubert</h3>
 <p>Im Hintergrund läuft ein speziell trainiertes KI-Modell, das auf Millionen von Haustierfotos trainiert wurde. Es versteht nicht nur <em>was</em> du willst, sondern auch <em>wie</em> es bei Tieren gut aussieht. Die KI kann:</p>
@@ -565,71 +569,100 @@ Approximately 50+ HTML files:
 ## Section 4: Vorher-Nachher-Beispiele
 
 ```html
-<h2>Echte Beispiele: Vorher und Nachher</h2>
+<h2 id="beispiele">Echte Beispiele: Vorher und Nachher</h2>
 
 <p>Theorie ist gut, aber Beispiele sind besser. Hier zeige ich dir ein paar meiner eigenen Rennmausfotos – vorher und nachher mit Pawtograph bearbeitet.</p>
 
-<h3>Beispiel 1: Einfaches Handyfoto → Studio-Look</h3>
+<h3>Beispiel 1: Weihnachtsmütze (ohne Tierstress!)</h3>
 
 <div class="before-after-comparison">
     <div>
-        <img src="/wp-content/uploads/pawtograph/rennmaus-handyfoto-vorher-1.jpg" alt="Handyfoto einer Silberagouti-Rennmaus vor unruhigem Wohnzimmerhintergrund – Vorher-Bild ohne Bearbeitung">
-        <p class="image-caption"><strong>Vorher:</strong> Handyfoto beim Freilauf – Maus ist okay, aber Hintergrund chaotisch</p>
-    </div>
-    <div>
-        <img src="/wp-content/uploads/pawtograph/rennmaus-pawtograph-nachher-1.jpg" alt="Professionell bearbeitetes Portrait einer Silberagouti-Rennmaus mit neutralem Studiohintergrund, erstellt mit Pawtograph Haustierportrait App">
-        <p class="image-caption"><strong>Nachher:</strong> Neutraler Studiohintergrund, Beleuchtung angepasst</p>
-    </div>
-</div>
-
-<p><strong>Was ich der KI gesagt habe:</strong> "Mach einen professionellen Studio-Hintergrund mit neutraler Beleuchtung". Die KI hat den Rest gemacht.</p>
-
-<h3>Beispiel 2: Digitale Weihnachtsmütze (ohne Tierstress!)</h3>
-
-<div class="before-after-comparison">
-    <div>
-        <img src="/wp-content/uploads/pawtograph/rennmaus-handyfoto-weihnachten-vorher.jpg" alt="Silberagouti-Rennmaus ohne Weihnachtsmütze – normales Handyfoto als Ausgangsbild">
+        <img src="/wp-content/uploads/pawtograph/rennmaus-handyfoto-weihnachten-vorher.jpg" alt="Rennmaus ohne Weihnachtsmütze – normales Handyfoto">
         <p class="image-caption"><strong>Vorher:</strong> Normales Foto, keine Requisiten nötig</p>
     </div>
     <div>
-        <img src="/wp-content/uploads/pawtograph/rennmaus-weihnachtsmuetze-nachher.jpg" alt="Silberagouti-Rennmaus mit digital hinzugefügter Weihnachtsmütze – bearbeitet mit Pawtograph Haustierportrait App">
-        <p class="image-caption"><strong>Nachher:</strong> Weihnachtsmütze digital hinzugefügt – kein Stress fürs Tier</p>
+        <img src="/wp-content/uploads/pawtograph/rennmaus-weihnachtsmuetze-nachher.jpg" alt="Rennmaus mit Weihnachtsmütze und weihnachtlichem Hintergrund">
+        <p class="image-caption"><strong>Nachher:</strong> Mit Weihnachtsmützen-Vorlage – Mütze digital hinzugefügt</p>
     </div>
 </div>
 
-<p><strong>Was ich der KI gesagt habe:</strong> "Füge eine niedliche rote Weihnachtsmütze hinzu und mach einen weihnachtlichen Hintergrund". Die KI hat verstanden und beides umgesetzt.</p>
+<p><strong>Verwendete Vorlage:</strong> Weihnachtsmann-Mütze – die Vorlage fügt die Mütze digital hinzu, der ursprüngliche Hintergrund bleibt erhalten.</p>
 
-<p><strong>Der Unterschied zu früher:</strong> Früher habe ich dutzende Versuche gebraucht, um eine echte Filz-Mütze auf die Maus zu bekommen – und sie ist ständig runtergerutscht. Jetzt mache ich ein normales Foto, sage der KI was ich will, und sie fügt die Mütze digital hinzu. Viel entspannter für alle Beteiligten!</p>
+<p><strong>Der Unterschied zu früher:</strong> Früher habe ich dutzende Versuche gebraucht, um eine echte Filz-Mütze auf die Maus zu bekommen – und sie ist ständig runtergerutscht. Jetzt lade ich einfach ein Foto hoch, wähle die Weihnachtsmützen-Vorlage, fertig. Viel entspannter für alle Beteiligten!</p>
 
-<h3>Beispiel 3: Freilauf mit Bokeh-Hintergrund</h3>
+<div style="background: #FFF8E7; padding: 20px; margin: 30px 0; border-left: 4px solid #8b7355; border-radius: 4px;">
+<p style="margin: 0 0 10px 0;"><strong>🎄 Perfekt für Weihnachtskarten</strong></p>
+<p style="margin: 0 0 15px 0; font-size: 15px;">
+Falls du auch Weihnachtsfotos deiner Rennmäuse machen willst:
+Die App hat fertige Vorlagen (Weihnachtsmütze, Schneehintergrund, etc.).
+Einfach Foto hochladen, Vorlage wählen, fertig.
+</p>
+<p style="margin: 0;">
+<a href="https://www.pawtograph.app/?utm_source=maeusenews&utm_medium=referral&utm_campaign=maeusenews_weihnachten" target="_blank" rel="noopener" style="color: #8b7355; font-weight: 600; text-decoration: underline;">→ Weihnachtsvorlagen ansehen</a>
+</p>
+</div>
+
+<h3>Beispiel 2: Als Fußballer</h3>
 
 <div class="before-after-comparison">
     <div>
-        <img src="/wp-content/uploads/pawtograph/rennmaus-handyfoto-vorher-2.jpg" alt="Silberagouti-Rennmaus beim Freilauf vor unruhigem Hintergrund mit Möbeln – Originalfoto vom Smartphone">
-        <p class="image-caption"><strong>Vorher:</strong> Beim Freilauf fotografiert – im Hintergrund das Badezimmer</p>
+        <img src="/wp-content/uploads/pawtograph/rennmaus-handyfoto-vorher-3.jpg" alt="Rennmaus beim Freilauf – normales Handyfoto">
+        <p class="image-caption"><strong>Vorher:</strong> Normales Freilauf-Foto</p>
     </div>
     <div>
-        <img src="/wp-content/uploads/pawtograph/rennmaus-pawtograph-nachher-2.jpg" alt="Silberagouti-Rennmaus-Portrait mit Bokeh-Effekt-Hintergrund, bearbeitet mit Pawtograph Haustierportrait App">
-        <p class="image-caption"><strong>Nachher:</strong> Bokeh-Hintergrund für einen professionelleren Look</p>
+        <img src="/wp-content/uploads/pawtograph/rennmaus-fussballspieler.jpg" alt="Rennmaus als Fußballspieler mit Trikot und Ball">
+        <p class="image-caption"><strong>Nachher:</strong> Als Fußballspieler – mit Trikot und Ball</p>
     </div>
 </div>
 
-<p><strong>Was ich der KI gesagt habe:</strong> "Ersetze den Hintergrund durch einen schönen Bokeh-Effekt in blau, und achte auf natürliche Schatten". Die KI hat alles perfekt umgesetzt. Bearbeitungszeit: ca. 20 Sekunden.</p>
+<p><strong>Verwendete Vorlage:</strong> Fußballspieler – perfekt für Sport-Fans oder wenn dein Lieblingsverein spielt!</p>
 
-<h3>Weitere Beispiele</h3>
+<h3>Beispiel 3: Action-Film-Plakat – vom Handyfoto zum Blockbuster</h3>
 
-<p>Hier noch zwei weitere bearbeitete Fotos (ohne Vorher-Vergleich):</p>
+<div class="before-after-comparison">
+    <div>
+        <img src="/wp-content/uploads/pawtograph/rennmaus-handyfoto-vorher-1.jpg" alt="Normales Handyfoto einer Rennmaus beim Freilauf">
+        <p class="image-caption"><strong>Vorher:</strong> Ganz normales Handyfoto beim Freilauf</p>
+    </div>
+    <div>
+        <img src="/wp-content/uploads/pawtograph/rennmaus-action-movie-poster.jpg" alt="Rennmaus als Action-Film-Held auf dramatischem Filmplakat">
+        <p class="image-caption"><strong>Nachher:</strong> Meine Rennmaus als Action-Held – komplett mit Filmplakat-Design</p>
+    </div>
+</div>
+
+<p><strong>Verwendete Vorlage:</strong> Action-Film-Plakat – die Vorlage erstellt ein komplettes Filmplakat inklusive dramatischer Effekte. Das Beste: Meine Rennmaus heißt "Mr. Speedy", und ich konnte den Namen eingeben – er erscheint dann direkt auf dem Plakat. Bearbeitungszeit: 20 Sekunden.</p>
+
+<p style="margin-top: 20px; padding: 15px; background: #f5f5f5; border-radius: 4px;">
+💡 <strong>Tipp:</strong> Du kannst das mit deinen eigenen Fotos ausprobieren -
+die erste Bearbeitung ist komplett kostenlos, ohne Abo-Zwang.
+<a href="https://www.pawtograph.app/?utm_source=maeusenews&utm_medium=referral&utm_campaign=maeusenews_example1" target="_blank" rel="noopener" style="color: #8b7355; text-decoration: underline;">Zur App (iOS & Android)</a>
+</p>
+
+<h3>Beispiel 4: Geburtstagskarte</h3>
+
+<div class="before-after-comparison">
+    <div>
+        <img src="/wp-content/uploads/pawtograph/rennmaus-handyfoto-vorher-4.jpg" alt="Rennmaus Handyfoto">
+        <p class="image-caption"><strong>Vorher:</strong> Einfaches Handyfoto</p>
+    </div>
+    <div>
+        <img src="/wp-content/uploads/pawtograph/rennmaus-geburtstagskarte.jpg" alt="Rennmaus auf druckfertiger Geburtstagskarte">
+        <p class="image-caption"><strong>Nachher:</strong> Fertige Geburtstagskarte – direkt druckbar!</p>
+    </div>
+</div>
+
+<p><strong>Verwendete Vorlage:</strong> Geburtstagskarte – die Vorlage erstellt eine komplette, druckfertige Karte mit deinem Haustier drauf. Perfekt als Geschenk!</p>
+
+<h3>Beispiel 5: Als Astronaut</h3>
 
 <div style="display: flex; gap: 20px; margin: 20px 0;">
     <div style="flex: 1;">
-        <img src="/wp-content/uploads/pawtograph/rennmaus-portrait-beispiel-3.jpg" alt="Silberagouti-Rennmaus-Portrait mit Blumen-Hintergrund, erstellt mit Pawtograph Haustierportrait App" style="width: 100%; border-radius: 4px;">
-        <p class="image-caption">Mit Blumen-Hintergrund – für Geburtstagskarten</p>
-    </div>
-    <div style="flex: 1;">
-        <img src="/wp-content/uploads/pawtograph/rennmaus-portrait-beispiel-4.jpg" alt="Silberagouti-Rennmaus auf weißem Hintergrund – minimalistisches professionelles Haustierportrait" style="width: 100%; border-radius: 4px;">
-        <p class="image-caption">Weißer Hintergrund – minimalistisch und clean</p>
+        <img src="/wp-content/uploads/pawtograph/rennmaus-astronaut.jpg" alt="Rennmaus als Astronaut im Weltall" style="width: 100%; border-radius: 4px;">
+        <p class="image-caption">Als Astronaut im Weltall – eine der kreativeren Vorlagen</p>
     </div>
 </div>
+
+<p><strong>Verwendete Vorlage:</strong> Astronaut – zeigt, wie kreativ die Vorlagen sein können. Funktioniert übrigens auch super mit Hunden und Katzen!</p>
 
 <p><strong>Wichtiger Hinweis:</strong> Die Qualität des Endergebnisses hängt stark vom Ausgangsfoto ab. Je besser das Originalfoto, desto besser das Ergebnis. Mehr dazu im nächsten Abschnitt.</p>
 
@@ -731,6 +764,29 @@ Die erste Bearbeitung ist komplett kostenlos – du brauchst nicht mal ein Abo.<
 </ul>
 
 <p>Wenn du noch mehr Ideen für kreative Rennmaus-Fotos suchst, schau dir meine <a href="/rennmausfotos_videos">Fotos</a> an.</p>
+
+<p style="margin-top: 30px; font-size: 16px;">
+<strong>Mit diesen Tipps bist du bestens vorbereitet.</strong>
+Falls du jetzt Lust bekommen hast, deine eigenen Fotos zu bearbeiten:
+Die erste Bearbeitung ist kostenlos – du brauchst nicht mal eine Zahlungsmethode anzugeben.
+<br><br>
+<a href="https://www.pawtograph.app/?utm_source=maeusenews&utm_medium=referral&utm_campaign=maeusenews_tips" target="_blank" rel="noopener" style="color: #8b7355; font-weight: 600; text-decoration: underline;">→ App herunterladen (iOS & Android)</a>
+</p>
+
+<div class="pawtograph-tip-box" style="margin: 40px 0;">
+    <div>
+        <i class="fa fa-user tip-icon"></i>
+        <span class="tip-title">Ehrliches Feedback</span>
+    </div>
+    <p class="tip-text">
+        Ich selbst nutze Pawtograph mittlerweile für fast alle meine Rennmausfotos.
+        Die meisten Nutzer haben aktuell Hunde oder Katzen (funktioniert dort noch besser),
+        aber ich bekomme auch positives Feedback von Hamster- und Meerschweinchenbesitzern.
+    </p>
+    <p class="tip-text" style="margin-bottom: 8px;">
+        <strong>Wichtig:</strong> Jederzeit über den App Store kündbar, Zahlung über Google Play/Apple App Store
+    </p>
+</div>
 ```
 
 ---
@@ -804,6 +860,22 @@ Die erste Bearbeitung ist komplett kostenlos – du brauchst nicht mal ein Abo.<
 <p><strong>Was ist inklusive?</strong> Mit dem Abo kannst du bis zu 40 Bearbeitungen pro Woche machen, maximal 800 im Jahr. Danach werden's 5 pro Woche. Für die meisten Leute reicht das völlig aus – ich selbst komme damit super hin. Falls du doch mal mehr brauchst (z.B. für ein großes Event oder Fotoshooting), kannst du zusätzliche Bearbeitungen nachkaufen.</p>
 
 <p><strong>Warum nicht komplett kostenlos?</strong> Ich würde die App gerne kostenlos anbieten, aber die Rechenkosten für die KI sind leider so hoch, dass ich das nicht stemmen kann. Jede Bearbeitung kostet mich echtes Geld bei den Cloud-Anbietern. Das Abo deckt diese Kosten und hilft mir, die App weiterzuentwickeln und zu verbessern.</p>
+
+<div style="background: #e8f5e9; padding: 25px; margin: 30px 0; border-left: 4px solid #4caf50; border-radius: 4px;">
+<p style="margin: 0 0 12px 0; font-size: 17px;"><strong>Bereit zum Ausprobieren?</strong></p>
+<p style="margin: 0 0 12px 0;">
+Du weißt jetzt, wie die App funktioniert, was sie kann, was sie kostet.
+Die erste Bearbeitung ist kostenlos – perfekt, um zu testen, ob's für deine Fotos funktioniert.
+</p>
+<p style="margin: 0 0 15px 0; font-size: 14px; color: #555;">
+✅ Jederzeit über den App Store kündbar<br>
+✅ Zahlung über Google Play/Apple App Store<br>
+✅ Erste Bearbeitung komplett kostenlos
+</p>
+<p style="margin: 0;">
+<a href="https://www.pawtograph.app/?utm_source=maeusenews&utm_medium=referral&utm_campaign=maeusenews_pricing" target="_blank" rel="noopener" style="font-size: 17px; color: #4caf50; font-weight: 600; text-decoration: underline;">→ Pawtograph herunterladen</a>
+</p>
+</div>
 ```
 
 ---
@@ -854,9 +926,22 @@ Die erste Bearbeitung ist komplett kostenlos – du brauchst nicht mal ein Abo.<
 
 <h3>Probier's einfach aus</h3>
 
-<p>Falls du neugierig geworden bist: Du kannst Pawtograph kostenlos ausprobieren (eine Bearbeitung kostenlos). Das reicht völlig, um zu testen, ob die App für dich funktioniert.</p>
-
-<p><strong><a href="https://www.pawtograph.app/?utm_source=maeusenews&utm_medium=referral&utm_campaign=maeusenews_article" target="_blank" rel="noopener">→ Pawtograph herunterladen (iOS & Android)</a></strong></p>
+<div style="background: #f5f5f5; padding: 30px; margin: 40px 0; border-radius: 4px; text-align: center;">
+<p style="margin: 0 0 20px 0; font-size: 18px;"><strong>Probier's einfach aus</strong></p>
+<p style="margin: 0 0 25px 0; font-size: 15px;">
+Falls du neugierig geworden bist: Eine Bearbeitung ist kostenlos,
+kein Abo nötig, keine Zahlungsdaten. Einfach Foto hochladen und schauen,
+ob dir das Ergebnis gefällt.
+</p>
+<p style="margin: 0 0 8px 0;">
+<a href="https://www.pawtograph.app/?utm_source=maeusenews&utm_medium=referral&utm_campaign=maeusenews_final" target="_blank" rel="noopener" style="display: inline-block; background: #8b7355; color: white; padding: 15px 30px; border-radius: 4px; text-decoration: none; font-weight: 600; font-size: 16px;">
+📱 App herunterladen (iOS & Android)
+</a>
+</p>
+<p style="margin: 8px 0 0 0; font-size: 13px; color: #666;">
+Kostenlos testen • Keine Zahlungsdaten nötig • Jederzeit kündbar
+</p>
+</div>
 
 <p>Und wenn du die App ausprobiert hast – besonders mit Rennmaus-, Hamster- oder Meerschweinchenfotos – würde ich mich riesig über Feedback freuen. Was funktioniert gut? Was könnte besser sein? Besonders an den Fellfarben bei komplett neuen Szenarien arbeite ich gerade, also sind Rückmeldungen super hilfreich!</p>
 
