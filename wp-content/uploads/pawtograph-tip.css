@@ -1,0 +1,71 @@
+.pawtograph-tip-box {
+    background-color: #FFF8E7;
+    border-left: 4px solid #8b7355;
+    border-radius: 4px;
+    padding: 20px 25px;
+    margin: 30px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.pawtograph-tip-box .tip-icon {
+    color: #8b7355;
+    font-size: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.pawtograph-tip-box .tip-title {
+    color: #603E2D;
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0 0 10px 0;
+    display: inline-block;
+}
+
+.pawtograph-tip-box .tip-text {
+    color: #4c3023;
+    font-size: 15px;
+    line-height: 1.6;
+    margin: 0 0 12px 0;
+}
+
+.pawtograph-tip-box .tip-link {
+    color: #8b7355;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.pawtograph-tip-box .tip-link:hover {
+    color: #603E2D;
+}
+
+/* Before/After Comparison Styles */
+.before-after-comparison {
+    display: flex;
+    gap: 20px;
+    margin: 30px 0;
+}
+
+.before-after-comparison > div {
+    flex: 1;
+}
+
+.before-after-comparison img {
+    width: 100%;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.image-caption {
+    font-size: 14px;
+    color: #666;
+    font-style: italic;
+    margin-top: 8px;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .before-after-comparison {
+        flex-direction: column;
+    }
+}
