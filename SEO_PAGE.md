@@ -275,27 +275,100 @@ Approximately 50+ HTML files:
 </div>
 ```
 
-### Files Requiring Tip Box (16 total)
+**Custom: Fußballer-Portrait (for Fußball basteln page):**
+```html
+<div class="pawtograph-tip-box">
+    <div>
+        <i class="fa fa-futbol-o tip-icon"></i>
+        <span class="tip-title">Deine Rennmaus als Fußballer – ohne Stress!</span>
+    </div>
+    <p class="tip-text">
+        Statt einen echten Fußball zur Maus zu legen (was oft stressig ist), kannst du sie digital zum Fußballer machen.
+        Total witzig und funktioniert auch super mit Hunden, Katzen und anderen Haustieren!
+        <a href="/haustierportrait-app/" class="tip-link">
+        So mache ich Fußballer-Portraits mit KI</a>.
+    </p>
+</div>
+```
 
-**Bauanleitungen (11):**
-1. `/bauanleitungen/tipps-zum-bauen-fuer-rennmaeuse/index.html` - Variation 1
-2. `/bauanleitungen/rennmaus-labyrinth-selber-bauen/index.html` - Variation 1
-3. `/bauanleitungen/haus-und-fressnapf-aus-einer-kokosnuss/index.html` - Variation 4
-4. `/bauanleitungen/trinkflaschenhalterung-fuer-die-classic-heimtiertraenke/index.html` - Variation 2
-5. `/bauanleitungen/deckel-fuer-ein-aquarium-bauen/index.html` - Variation 1
-6. `/bauanleitungen/mandarinenleuchte-basteln/index.html` - Variation 4
-7. `/bauanleitungen/ein-weihnachtsmann-zum-anknabbern/index.html` - Variation 2
-8. `/bauanleitungen/nikolausstiefel-zum-anknabbern/index.html` - Variation 4
-9. `/bauanleitungen/rennmaus-plaetzchenausstecher/index.html` - Variation 1
-10. `/bauanleitungen/fledermaus-aus-socke-basteln/index.html` - Variation 2
-11. `/bauanleitungen/maeusegesicht-plaetzchenausstecher/index.html` - Variation 4
+**Custom: Weihnachts-Portraits:**
+```html
+<div class="pawtograph-tip-box">
+    <div>
+        <i class="fa fa-gift tip-icon"></i>
+        <span class="tip-title">Weihnachtsmütze ohne Tierstress</span>
+    </div>
+    <p class="tip-text">
+        Früher habe ich versucht, echte Mini-Weihnachtsmützen auf meine Rennmäuse zu setzen – dutzende Versuche pro Foto.
+        Heute füge ich sie einfach digital hinzu. Viel entspannter für alle!
+        <a href="/haustierportrait-app/" class="tip-link">
+        Hier zeige ich, wie das mit KI funktioniert</a>.
+    </p>
+</div>
+```
 
-**Rennmaus-Ratgeber (5):**
+**Custom: Halloween-Portraits:**
+```html
+<div class="pawtograph-tip-box">
+    <div>
+        <i class="fa fa-magic tip-icon"></i>
+        <span class="tip-title">Halloween-Kostüme digital hinzufügen</span>
+    </div>
+    <p class="tip-text">
+        Statt deine Rennmaus in echte Kostüme zu zwängen, kannst du sie digital verkleiden –
+        als Fledermaus, mit Hexenhut, oder was dir einfällt.
+        <a href="/haustierportrait-app/" class="tip-link">
+        So mache ich Halloween-Portraits mit KI</a>.
+    </p>
+</div>
+```
+
+**Custom: Freilauf-Momente:**
+```html
+<div class="pawtograph-tip-box">
+    <div>
+        <i class="fa fa-camera tip-icon"></i>
+        <span class="tip-title">Besondere Freilauf-Momente festhalten</span>
+    </div>
+    <p class="tip-text">
+        Beim Freilauf entstehen oft süße Momente – aber der Hintergrund ist chaotisch.
+        <a href="/haustierportrait-app/" class="tip-link">
+        Ich bearbeite solche Fotos mit KI und mache schöne Erinnerungsbilder daraus</a>.
+    </p>
+</div>
+```
+
+**Custom: Winter-Portrait:**
+```html
+<div class="pawtograph-tip-box">
+    <div>
+        <i class="fa fa-snowflake-o tip-icon"></i>
+        <span class="tip-title">Winterliche Rennmaus-Portraits</span>
+    </div>
+    <p class="tip-text">
+        Aus einem normalen Foto wird ein winterliches Portrait – mit Schnee-Hintergrund,
+        Weihnachtsmütze oder gemütlicher Winterstimmung.
+        <a href="/haustierportrait-app/" class="tip-link">
+        So erstelle ich Winter-Portraits mit KI</a>.
+    </p>
+</div>
+```
+
+### Files Requiring Tip Box (8 total)
+
+**Bauanleitungen (3):**
+1. `/bauanleitungen/rennmaus-labyrinth-selber-bauen/index.html` - Variation 2
+2. `/bauanleitungen/ein-weihnachtsmann-zum-anknabbern/index.html` - Custom: "Weihnachts-Portraits"
+3. `/bauanleitungen/fledermaus-aus-socke-basteln/index.html` - Custom: "Halloween-Portraits"
+
+**Rennmaus-Ratgeber (3):**
 1. `/rennmaus-ratgeber/eine-kurze-zusammenfassung/index.html` - Variation 3
-2. `/rennmaus-ratgeber/herkunft-fellfarben-sinne-rennmausarten-und-mehr/index.html` - Variation 2
+2. `/rennmaus-ratgeber/pflege-tipps-freilauf/index.html` - Custom: "Freilauf-Momente"
 3. `/rennmaus-ratgeber/kauf-einrichtung/index.html` - Variation 4
-4. `/rennmaus-ratgeber/pflege-tipps-freilauf/index.html` - Variation 2
-5. `/rennmaus-ratgeber/probleme-mit-rennmaeusen/index.html` - Variation 3
+
+**Specials (2):**
+1. `/specials/fussball/fussball-basteln/index.html` - Custom: "Fußballer-Portrait"
+2. `/specials/weihnachten/schneemaus-bauen/index.html` - Custom: "Winter-Portrait"
 
 ---
 
