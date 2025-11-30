@@ -83,3 +83,4 @@ This site is designed for static hosting but has some cleanup needed:
 - Remove or convert PHP template tags in 404.html
 - Consider removing WordPress-specific references
 - Update or remove tracking scripts as needed
+- never create .bak files - we use git now, this is old legacy stuff
